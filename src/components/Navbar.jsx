@@ -1,3 +1,3 @@
 export const Navbar = () => {
-  return <div>Navbar</div>;
+  return <nav className="h-16 bg-secondary">Krishan</nav>;
 };

@@ -3,7 +3,7 @@ import { Navbar } from "../components/Navbar";
 
 export const Layout = () => {
   return (
-    <main className="h-screen border-black bg-slate-200">
+    <main className="h-screen bg-custom-gradient ">
       <Navbar />
       <Outlet />
     </main>
